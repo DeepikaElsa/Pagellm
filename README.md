@@ -178,54 +178,6 @@ See `.env.example` for all options.
 
 ---
 
-## 👥 Community
-
-Join our [Discord](https://discord.gg/P7HaRayqTh) community to connect, share ideas, and take part in exciting discussions!
-
----
-
-## 🤝 Contributing
-
-We welcome all contributions.
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/new-feature`)
-3. Commit changes (`git commit -m "Add feature"`)
-4. Push (`git push origin feature/new-feature`)
-5. Open a Pull Request
-
-**Guidelines:**
-
-- Follow code style and conventions
-- Add tests where needed
-- Update docs for new features
-- Ensure all tests pass before PR
-
----
-
-## 💡 Areas to Contribute
-
-- AI model integrations
-- Mobile app support
-- Performance improvements
-- Accessibility features
-- Docs & tutorials
-
----
-
-## 💖 Support the Project
-
-If you find PageLM useful, please consider supporting:
-
-**Ethereum (ERC-20)**:
-
-```
-0x5a12e3f48b6d761a120bc3cd0977e208c362a74e
-```
-
-Your support helps fund ongoing development and hosting.
-
----
 
 ## 📜 License
 
@@ -239,8 +191,5 @@ See [LICENSE](LICENSE.md) for full terms.
 
 <div align="center">
 
-**Built with ❤️ by CaviraOSS and contributors**
-
-⭐ Star us on [GitHub](https://github.com/CaviraOSS/pagelm) if this project helps you!
 
 </div>
